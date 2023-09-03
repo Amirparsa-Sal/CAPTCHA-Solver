@@ -1,4 +1,4 @@
-# Captcha Recognition
+# Captcha Solver
 
 ### What I've done in this project?
 
