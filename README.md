@@ -1,5 +1,7 @@
 # Captcha Solver
 
+This project is done as a part of my internship at AIMedic.
+
 ### What I've done in this project?
 
 Before startring the project I knew that we need a CNN model or a combination of CNN and RNN to solve this problem. So, I started to search a bit about captcha recognition networks and I found a variety of networks such as:
